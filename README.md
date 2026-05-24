@@ -22,7 +22,7 @@
 
 I'm a **Frontend Developer** who loves building fast, beautiful, and accessible web experiences — and sprinkling in AI where it makes real impact.
 
-- 🔭 Currently building **[IntentLens](https://github.com/AarthyB/IntentLens)** — an NLP-powered intent analysis tool
+- 🔭 I built **[IntentLens](https://github.com/AarthyB/IntentLens)** — an NLP-powered intent analysis tool
 - 🤖 I built **[AI Dream Interpreter](https://github.com/AarthyB/AI-Dream-Interpreter)** — because why not ask AI what your subconscious is up to
 - 🎵 I built **[Music Nanba](https://github.com/AarthyB/Music-Nanba-backend)** — an emotion-aware Android music recommender
 - 🌐 Strong in **Angular**, **TypeScript**, and **component-driven architecture**
