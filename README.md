@@ -24,6 +24,7 @@ I'm a **Frontend Developer** who loves building fast, beautiful, and accessible 
 
 - 🔭 Currently building **[IntentLens](https://github.com/AarthyB/IntentLens)** — an NLP-powered intent analysis tool
 - 🤖 I built **[AI Dream Interpreter](https://github.com/AarthyB/AI-Dream-Interpreter)** — because why not ask AI what your subconscious is up to
+- 🎵 I built **[Music Nanba](https://github.com/AarthyB/Music-Nanba-backend)** — an emotion-aware Android music recommender
 - 🌐 Strong in **Angular**, **TypeScript**, and **component-driven architecture**
 - 🐍 Comfortable in **Python** for scripting, data work, and AI integrations
 - 💼 Open to **full-time frontend / full-stack roles** — let's build something great!
@@ -40,16 +41,24 @@ I'm a **Frontend Developer** who loves building fast, beautiful, and accessible 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
+**Mobile**
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+
 **Backend & AI**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ---
 
@@ -57,8 +66,9 @@ I'm a **Frontend Developer** who loves building fast, beautiful, and accessible 
 
 | Project | What it does | Stack |
 |---|---|---|
-| [🔍 IntentLens](https://github.com/AarthyB/IntentLens) | Analyses user intent behind text using NLP | Python |
-| [🌙 AI Dream Interpreter](https://github.com/AarthyB/AI-Dream-Interpreter) | AI-powered dream analysis and journaling | TypeScript |
+| [🔍 IntentLens](https://github.com/AarthyB/IntentLens) | Deep learning classifier for romantic, platonic & ambiguous conversational intent | Python, PyTorch |
+| [🌙 AI Dream Interpreter](https://github.com/AarthyB/AI-Dream-Interpreter) | AI-powered dream analysis and journaling with emotion tracking | TypeScript, Angular |
+| [🎵 Music Nanba](https://github.com/AarthyB/Music-Nanba-backend) | Emotion-aware Android music recommender — mood builds the playlist | Python, Java, Android |
 | [⚡ Angular Projects](https://github.com/AarthyB/Angular) | Component library and Angular demos | TypeScript, Angular |
 | [🎨 HTML & CSS](https://github.com/AarthyB/HTML-CSS) | UI layouts and styling experiments | HTML, CSS |
 
