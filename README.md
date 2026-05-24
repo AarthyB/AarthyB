@@ -8,7 +8,7 @@
   <a href="https://github.com/AarthyB">
     <img src="https://komarev.com/ghpvc/?username=AarthyB&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
-  <a href="mailto:aarthybesantarunkumar@example.com">
+  <a href="mailto:aarthybesantarunkumar@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/aarthy-besant-arunkumar-97437716a/">
@@ -65,10 +65,12 @@ I'm a **Frontend Developer** who loves building fast, beautiful, and accessible 
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AarthyB&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AarthyB&layout=compact&hide_border=true&theme=default" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AarthyB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AarthyB&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="160" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AarthyB&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
 </p>
 
 ---
@@ -77,7 +79,7 @@ I'm a **Frontend Developer** who loves building fast, beautiful, and accessible 
 
 I'm actively looking for **frontend developer roles** where I can contribute from day one. If you're building something interesting — I'd love to hear about it.
 
-📬 **[your.email@example.com](mailto:aarthybesantarunkumar@example.com)** · **[LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/aarthy-besant-arunkumar-97437716a/))**
+📬 **[Email](mailto:aarthybesantarunkumar@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/aarthy-besant-arunkumar-97437716a/)**
 
 ---
 
