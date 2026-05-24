@@ -77,7 +77,7 @@ I'm a **Frontend Developer** who loves building fast, beautiful, and accessible 
 
 I'm actively looking for **frontend developer roles** where I can contribute from day one. If you're building something interesting — I'd love to hear about it.
 
-📬 **[your.email@example.com](mailto:your.email@example.com)** · **[LinkedIn](https://linkedin.com/in/your-profile)**
+📬 **[your.email@example.com](mailto:aarthybesantarunkumar@example.com)** · **[LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/aarthy-besant-arunkumar-97437716a/))**
 
 ---
 
