@@ -83,7 +83,7 @@ I'm a **Frontend Developer** who loves building fast, beautiful, and accessible 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AarthyB&theme=tokyonight" height="150" alt="Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AarthyB&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=AarthyB&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
 </p>
 
 ---
